@@ -3,11 +3,12 @@ This repository is to test Security on AWS infrastructure which is deployed usin
 
 # Scenario: codebuild_secrets
 
-Size: Large
+**Size:** Large
 
-Difficulty: Hard
+**Difficulty:** Hard
 
-Command: $ ./cloudgoat.py create codebuild_secrets
+**Command:** $ ./cloudgoat.py create codebuild_secrets
+
 Scenario Resources
 
     1 CodeBuild Project
